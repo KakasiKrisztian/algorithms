@@ -22,10 +22,11 @@ public class LogicalOp {
 
     public void countFromTo(int x, int y){
         for (int i = x; i == y; i++){
-            System.out.println(i);
             if (x > y){
+                System.out.println(i);
                 i--;
             }else {
+                System.out.println(i);
                 i++;
             }
         }
