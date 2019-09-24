@@ -3,13 +3,11 @@ package org.fasttrackit;
 public class CozaLozaWoza {
 
     public static void main(String[] args) {
+
         CozaLozaWoza cozaLozaWoza = new CozaLozaWoza();
 
         cozaLozaWoza.cozaLozaWoza(12, 235);
     }
-
-
-
 
 
     public void cozaLozaWoza(int x, int y) {
